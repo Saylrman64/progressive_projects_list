@@ -4,12 +4,12 @@ end
 
 Redmine::Plugin.register :progressive_projects_list do
   name 'Progressive Projects List plugin'
-  author 'Dmitry Babenko'
+  author 'Nicolas Metters / Dmitry Babenko'
   description 'Projects List with menus and progress bars.'
-  version '4.0.0'
-  url 'https://ergoserv.github.io/redmine-progressive-projects-list/'
-  author_url 'https://github.com/ergoserv'
-  requires_redmine version_or_higher: '3.3'
+  version '5.0.0'
+  url 'https://github.com/nicolasmetters/progressive_projects_list'
+  author_url 'https://github.com/nicolasmetters'
+  requires_redmine version_or_higher: '5.0'
 
   settings default: {
     'show_project_description'  => false,
