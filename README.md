@@ -25,9 +25,8 @@ Installation notes
 
 1. Download [latest release](https://github.com/ergoserv/redmine-progressive-projects-list/releases/latest) of the plugin.
 2. Extract plugin's archive to `<redmine_path>/plugins`.
-3. Check or rename plugin's directory to `<redmine_path>/plugins/progressive_projects_list` directory.
-4. Restart Redmine.
-5. Enjoy!
+3. Restart Redmine.
+4. Enjoy!
 
 You should now be able to see the plugin list in _Administration -> Plugins_ and configure it.
 
@@ -54,7 +53,7 @@ License
 
 *The MIT License (MIT)*
 
-Copyright (c) 2012-2020 Dmitry Babenko
+Copyright (c) 2012-2023 Dmitry Babenko
 
 The plugin is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
