@@ -18,6 +18,8 @@ Features
 
 ![Progressive Projects List Screenshot](http://ergoserv.github.io/redmine-progressive-projects-list/images/screenshots/v020/progressive-projects-list-v020-progress.png)
 
+
+
 More details and screenshots - http://ergoserv.github.io/redmine-progressive-projects-list.
 
 Installation notes
@@ -33,7 +35,7 @@ You should now be able to see the plugin list in _Administration -> Plugins_ and
 Generic instructions for installing/uninstalling plugins can be found at [Redmine Plugins page](http://www.redmine.org/projects/redmine/wiki/Plugins).
 
 ### Compatibility ###
-
+- Redmine 5.0++ -      [version 5.0.0](https://github.com/nicolasmetters/progressive_projects_list/releases/tag/redmine5) and branch [master]([https://github.com/ergoserv/redmine-progressive-projects-list/tree/master](https://github.com/nicolasmetters/progressive_projects_list)).
 - Redmine 3.2 .. 4.1 - [version 4.0.0](https://github.com/ergoserv/redmine-progressive-projects-list/releases/tag/v4.0.0) and branch [master](https://github.com/ergoserv/redmine-progressive-projects-list/tree/master).
 - Redmine 3.0 .. 3.2 - [version 3.0.1](https://github.com/ergoserv/redmine-progressive-projects-list/releases/tag/v3.0.1).
 - Redmine 2.3 .. 3.0 - [version 2.0.1](https://github.com/ergoserv/redmine-progressive-projects-list/releases/tag/v2.0.1).
